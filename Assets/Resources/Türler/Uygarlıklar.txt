@@ -1,0 +1,53 @@
+Sümerler = Yazıyı icat eden, Mezopotamya’da kurulmuş tarihin en eski uygarlıklarından biridir.
+
+Yunan = Felsefe, sanat ve demokrasiyle bilinen, Batı uygarlığının temelini atan medeniyet. (Antik …)
+
+Roma = M.Ö. 27'de Augustus tarafından kurulmuş, Avrupa, Kuzey Afrika ve Orta Doğu’ya yayılan güçlü bir uygarlıktır. Latince dili, hukuku, mimari eserleri ve yol sistemleriyle tarih boyunca büyük etki bırakmıştır. 
+
+Mısır = Nil Nehri etrafında gelişmiş, piramitleri ve mumyacılığıyla tanınan eski uygarlık.
+
+Hitit = M.Ö. 17. yüzyılda Orta Anadolu’da  kurulmuş, tarihî belgelerde ilk kez yazılı antlaşma (Kadeş Antlaşması) yapan uygarlıktır. Güçlü bir merkezi devlet yapısına, gelişmiş hukuk sistemine ve çok tanrılı dine sahiplerdi.
+
+Çin = Kağıt, pusula, barut gibi buluşlarıyla tanınan, dünyanın en eski sürekli medeniyetlerinden.
+
+Maya = Orta Amerika’da yaşamış, takvimleri ve matematik bilgileriyle dikkat çeken eski uygarlık.
+
+Aztek = Meksika’da yaşamış, savaşçı yönleri ve kurban törenleriyle bilinen uygarlık.
+
+Pers = İran merkezli kurulmuş, geniş bir imparatorluk ve ileri yönetim sistemleriyle öne çıkmıştır.
+
+Arap = Bilim, matematik ve tıp alanında altın çağını yaşamış, İslam kültürünü yaymış uygarlık.
+
+Osmanlı = Üç kıtaya yayılan, uzun ömürlü ve çok kültürlü bir Türk-İslam imparatorluğu.
+
+Moğol = Cengiz Han önderliğinde Asya’dan Avrupa’ya kadar genişlemiş, büyük savaşçı toplum.
+
+Babil = Mezopotamya’da yaşamış, Hammurabi Kanunları ve büyük şehirleriyle tanınır.
+
+Hint = Kast sistemi, Hinduizm ve matematikteki gelişmeleriyle bilinen eski bir uygarlık.
+
+Fenike = Deniz ticareti ve alfabenin gelişimiyle tanınan Doğu Akdeniz uygarlığı.
+
+Asur = Disiplinli ordu ve ilk kütüphaneleriyle bilinen Mezopotamya uygarlığı.
+
+Japon = Samuray kültürü, sanat ve disiplinli toplumsal yapısıyla tanınan ada uygarlığı.
+
+iskit = Orta Asya’dan gelen göçebe savaşçı halk, okçulukta ve atlı birliklerde uzmandı.
+
+Urartu = Doğu Anadolu'da yaşamış, kaleleri ve taş işçiliğiyle bilinen eski uygarlık.
+
+Lidya = Anadolu’da (Batı Türkiye) yaşamış, tarihte ilk kez madeni parayı kullanan uygarlık.
+
+Frig = Orta Anadolu’da kurulmuş, müzik ve efsaneleriyle bilinen, Midas efsanesiyle tanınır.
+
+iyonya = Batı Anadolu kıyılarında yaşamış, bilim ve felsefede ilerlemiş denizci uygarlık.
+
+Troya = Çanakkale civarında kurulmuş, Homeros’un destanlarına konu olan efsanevi şehir uygarlığı.
+
+Sasani = Pers İmparatorluğu’nun son büyük hükümdarlığı, Roma ve Bizans’la savaşmış güçlü devlet.
+
+Göktürk = Türk adını resmi olarak kullanan ilk devlet, Orhun Yazıtları ile tanınır.
+
+Uygur = Göktürkler sonrası kurulan, sanat ve yazılı kültürü gelişmiş ilk yerleşik Türk devleti.
+
+Viking = İskandinavya kökenli, denizcilikleri ve akınlarıyla Orta Çağ Avrupa’sında etkili olan halk.

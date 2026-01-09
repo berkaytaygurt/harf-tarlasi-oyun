@@ -1,0 +1,153 @@
+Aristoteles = Antik Yunan filozofu; mantık ve doğa bilimlerinin öncüsü.
+
+Sokrates = Sorgulayıcı felsefe yöntemiyle Batı düşüncesinin temellerini atan filozof. Savunması meşhurdur.
+
+Platon = Sokrates’in öğrencisi; “Devlet” adlı eseriyle ünlüdür. Ayrıca mağara benzetmesi ile de ünlüdür.
+
+Konfüçyüs = Ünlü Çinli filozof; ahlak ve toplum düzeni üzerine öğretileriyle etkili olmuştur.
+
+Buda = Hindistan'da Budizm'in kurucusu, ruhani öğretmen. Öğretisinin merkezinde “orta yol” vardır.
+
+İskender = Antik dünyanın en büyük imparatorluklarından birini kurdu. Asya’ya kadar sefere çıktı. Pers İmparatorluğu’nu dize getirdi. İsmiyle Türkçede bir yemek ismi de bulunmaktadır. (Büyük …)
+
+Sezar = Roma’nın cumhuriyetini imparatorluğa taşıyan general. “Geldim, gördüm, yendim” dedi; ama sonu 23 bıçak darbesiyle geldi, hem de dostlarının elinden. Sen de mi Brütüs? (Jull …)
+
+Arşimet	= Antik Yunan bilim insanı ve mucit. Kaldırma kuvvetini bulmasıyla ünlüdür. Evreka!
+
+Hipokrat = Tıbbın babası olarak anılır. Doktorlar hâlâ onun adını taşıyan yeminle göreve başlar. 
+
+Sina = Tıbbın kanunlarını yazdı, asırlarca Avrupa'da okutuldu. Hem bilim insanıydı hem filozof, genç yaşta ansiklopedik bilgiye sahipti. (İbn-i …)
+
+Galileo = Modern astronominin kurucusu. Dünya değil Güneş merkezli sistemi savunduğu için Engizisyon Mahkemelerinde yargılanmıştır. 
+
+Vinci = Mona Lisa ve Son Akşam Yemeği tablolarıyla tanındı. Uçan makineler, anatomi çizimleri, savaş aletleri tasarladı; tam anlamıyla bir Rönesans dehasıydı. (da …)
+
+Newton = Klasik mekaniğin kurucusu kabul edilir. Yerçekimi yasasını elma örneğiyle ikonik hale getirmiştir. Ayrıca hareket yasaları, kalkülüsün temelleri ve ışık teorisi gibi alanlarda bilimsel devrim yaratmıştır. (Isaac …)
+
+Descartes = Modern felsefenin kurucularından biri olarak kabul edilir. “Düşünüyorum, öyleyse varım” sözüyle tanınır. Aynı zamanda analitik geometriyi geliştirmiş ve matematikle felsefeyi birleştirmiştir.
+
+Voltaire = Aydınlanma Çağı’nın en etkili düşünürlerinden biridir. Özellikle din eleştirileri, ifade özgürlüğü ve hoşgörü vurgusuyla tanınır. Mizah ve hicivle iktidarı ve kiliseyi eleştirmiştir.
+
+Smith = Modern ekonominin kurucusu sayılır. “Ulusların Zenginliği” adlı eseriyle serbest piyasa ekonomisini ve “görünmez el” kavramını ortaya koymuştur. Ekonomik liberalizmin temelini atmıştır. Kapitalizmin babası. (Adam …)
+
+Napolyon = Fransız Devrimi sonrası yükselen ve kendini imparator ilan eden askeri liderdir. Avrupa'nın büyük kısmını fethetmiş, hukukta kendi adıyla kanunları vardır. Siyasi ve askerî etkisi kadar Waterloo’daki yenilgisiyle de hatırlanır.
+
+Washington = Amerikan Bağımsızlık Savaşı’nın başkomutanı ve Amerika Birleşik Devletleri’nin ilk başkanıdır. (George …)
+Franklin = Amerika’nın kurucu babalarından biridir. Yazar, bilim insanı, diplomat ve mucit olarak çok yönlüdür. En çok elektrikle ilgili deneyleri ve paratoner icadıyla tanınır. Ayrıca ABD Anayasası’nın oluşum sürecinde önemli rol oynamıştır. (Benjamin …)
+
+Lincoln = Amerika Birleşik Devletleri’nin 16. başkanıdır. İç Savaş döneminde ülkeyi yönetti ve köleliği kaldıran başkan olarak tarihe geçti. (Abraham …)
+
+Marx = Komünizm teorisinin temelini atan Alman düşünürdür. “Komünist Manifesto” ve “Kapital” adlı eserlerinde sınıf mücadelesi, emek ve sermaye üzerine kurulu bir toplum eleştirisi sunmuştur. Marksizm akımı, dünya tarihinde büyük siyasi etkilere yol açmıştır. (Karl …)
+
+Freud = Psikanaliz kuramının kurucusudur. Bilinçaltı, rüyalar, ego-id-süperego gibi kavramları geliştirmiştir. İnsan davranışlarının temelinde bastırılmış dürtüler ve çocukluk deneyimlerinin yattığını savunur. (Sigmund …)
+
+Nietzsche = 19. yüzyıl Alman filozofudur. Ahlâk, din ve insan doğası üzerine sert eleştiriler yapmıştır. Üstinsan, güç istenci ve nihilizm gibi kavramlarla felsefeye damga vurmuştur. (Friedrich …)
+
+Beethoven = Klasik müzik tarihinin en önemli bestecilerindendir. İşitme duyusunu neredeyse tamamen kaybetmesine rağmen 9. Senfoni gibi eserleriyle müziğin sınırlarını zorlamıştır. Duygusal derinlik ve dramatik yapı onun müziğinde öne çıkar. (Ludwig van …)
+
+Mozart	= Klasik dönemin dâhi bestecisidir. Çok genç yaşta beste yapmaya başlamış, operadan senfoniye kadar her türde eser vermiştir. Melodik zenginliği ve üretkenliğiyle tarihin en büyük müzisyenlerinden biri kabul edilir. Ayrıca "Türk Marşı" adlı eseri bulunmaktadır. (Wolfgang Amadeus …)
+
+Shakespeare = İngiliz edebiyatının en ünlü oyun yazarı ve şairidir. Hamlet, Macbeth, Romeo ve Juliet gibi eserleriyle tiyatroda insan doğasını derinlemesine işlemiştir. Modern İngilizcenin şekillenmesinde büyük rol oynamıştır. (William …)
+
+Tesla = Elektrik ve elektromanyetizma alanında devrimsel çalışmalar yapmış Sırp-Amerikalı mucittir. Alternatif akım sistemini geliştirmiştir. Radyonun mucidi olarak da görülür, ama çoğu zaman hakkı Edison'a kaptırılmıştır. (Nikola …)
+
+Graham = Telefonun mucididir. Sesin elektrik sinyalleriyle iletilmesi üzerine yaptığı deneylerle iletişimde çığır açmıştır. Aynı zamanda işitme engellilerle ilgili çalışmaları da vardır. (… Bell)  
+
+Edison = Pratik elektrik ampulünü geliştirerek modern yaşamı değiştiren Amerikalı mucittir. Fonograf ve film projeksiyon cihazı gibi birçok icadı vardır. “1% ilham, 99% ter” sözüyle tanınır. (Thomas …)
+
+Curie = Radyum ve polonyum elementlerini keşfeden, radyoaktivite üzerine çalışan Polonyalı-Fransız bilim insanıdır. Nobel Ödüllü ilk ve tek kadın bilim insanıdır. (Marie …)
+
+Churchill = İkinci Dünya Savaşı sırasında Birleşik Krallık’ın başbakanı olarak Nazi Almanyası’na karşı direnişi yöneten liderdir. Hitabeti, kararlılığı ve savaş zamanı liderliğiyle tanınır. (Winston …)
+
+Hitler = Nazi Almanyası’nın lideri ve diktatörüdür. İkinci Dünya Savaşı’nın baş sorumlusudur. Irkçı ideolojisiyle Holokost’a öncülük etmiş ve milyonlarca insanın ölümüne sebep olmuştur. (Adolf …)
+
+Stalin = Sovyetler Birliği’nin lideridir. Komünist rejimi sert yöntemlerle yürütmüş, kolektivizasyon ve temizlik politikalarıyla milyonlarca kişinin ölümüne neden olmuştur. İkinci Dünya Savaşı'nın galip tarafında yer almıştır. (Joseph …)
+
+Einstein = Görelilik teorisini geliştirerek modern fiziğin temelini atan teorik fizikçidir. “E=mc²” denklemiyle enerji ve kütle ilişkisini ortaya koymuştur. Nobel Fizik Ödülü’nü fotoelektrik etki üzerine çalışmalarıyla almıştır. (Albert …)
+
+Picasso = 20. yüzyılın en etkili ressamlarındandır. Kübizm akımının kurucusudur. Resimde biçimi bozarak yeni bir ifade dili oluşturmuştur. Guernica gibi eserleriyle hem sanat hem siyaset alanında ses getirmiştir. (Pablo …)
+
+Guevara = Arjantinli doktor kökenli devrimcidir. Küba Devrimi'nde Fidel Castro’yla birlikte savaşmış, gerilla mücadelesiyle tanınmıştır. Sembol haline gelmiş portresiyle anti-emperyalizmin ve isyanın ikonu kabul edilir. (Che …)
+
+Thales = Antik Yunan filozofudur. Batı felsefesinin ve bilimsel düşüncenin ilk öncülerinden sayılır. Her şeyin sudan oluştuğunu ileri sürmüş ve güneş tutulmasını önceden hesaplamıştır. Ayrıca geometride teoremleri vardır.
+
+Pisagor = Antik Yunan matematikçisi ve filozofudur. Geometride dik üçgenlerdeki teoremi ile tanınır. Sayıların evrenin yapısını açıklayabileceğine inanan mistik bir anlayış geliştirmiştir.
+
+Demokritos = Antik çağın atomculuk teorisini ortaya atan filozofudur. Evrenin boşluk ve bölünemez parçacıklardan (atomlardan) oluştuğunu savunmuştur. Bilimsel düşüncenin gelişiminde öncü olmuştur.
+
+Mevlana = 13. yüzyılda yaşamış tasavvuf şairidir. “Mesnevi” adlı eseriyle aşk, insan ve Allah üzerine derin öğretiler sunmuştur. Evrensel sevgi ve hoşgörü anlayışıyla dünya çapında tanınır.
+
+Yunus = 13.-14. yüzyılda Anadolu’da yaşamış halk şairidir. Dini ve tasavvufi konuları sade Türkçeyle işlemiş, insan sevgisini ve alçakgönüllülüğü öne çıkarmıştır. Türk halk edebiyatının en önemli isimlerindendir. (… Emre)
+
+Erasmus	= Rönesans dönemi düşünürüdür. Hristiyanlığı akıl ve hoşgörüyle yorumlamış, skolastik düşünceye karşı çıkmıştır. “Deliliğe Övgü” adlı eseriyle kilise dogmalarını eleştirmiştir. İsmi, günümüzde üniversite değişim programlarında kullanılıyor.
+
+Luther = 16. yüzyılda Katolik Kilisesi’ne karşı çıkan Alman rahiptir. “95 Tez”ini yazarak Reform hareketini başlatmış, Protestanlığın doğuşuna öncülük etmiştir. (Martin …)
+
+Tolstoy = Rus edebiyatının dev ismidir. “Savaş ve Barış” ile “Anna Karenina” gibi romanlarında insan ruhunu ve toplumu derinlemesine işlemiştir. Son döneminde ahlak, din ve toplum üzerine fikirleriyle dikkat çekmiştir. (Leo …)
+
+Dostoyevski = İnsan psikolojisini en derin şekilde anlatan Rus yazarlardandır. “Suç ve Ceza”, “Karamazov Kardeşler” ve “Yeraltından Notlar” gibi eserlerinde suç, inanç, özgür irade gibi temaları işler. (Fyodor …)
+
+Hugo = Fransız edebiyatının büyük ismidir. “Sefiller” ve “Notre Dame’ın Kamburu” gibi eserleriyle toplumsal adalet, merhamet ve insanlık temalarını işlemiştir. Aynı zamanda siyasi aktivisttir. (Victor …)
+
+Alan = Modern bilgisayar biliminin kurucularındandır. II. Dünya Savaşı sırasında Enigma kodunu çözerek savaşın seyrini değiştirmiştir. Turing testi ve yapay zekâ konusundaki çalışmalarıyla tanınır. (… Turing)
+
+Mendel = Genetik biliminin kurucusudur. Bezelyelerle yaptığı deneylerle kalıtım yasalarını keşfetmiş, genetik özelliklerin nesilden nesile nasıl aktarıldığını açıklamıştır. (Gregor …)
+
+Nobel = Dinamiti icat eden İsveçli kimyager ve mühendisdir. Servetini … Ödülleri’ni kurmak için bağışlamıştır. Bilime, edebiyata ve barışa katkı sağlayanlara her yıl verilen bu ödüller onun mirasıdır. (Alfred …)
+
+Attila = 5. yüzyılda Avrupa’ya korku salan Hun hükümdarıdır. Roma İmparatorlukları’na karşı yaptığı seferlerle tanınır. Batı’da “Tanrı’nın Kırbacı” lakabıyla anılmıştır.
+
+Cengiz Han = Moğol İmparatorluğu’nun kurucusudur. Askerî dehası ve sert disiplini sayesinde tarihin en büyük kara imparatorluklarından birini kurmuştur. Asya ve Avrupa’da büyük etki bırakmıştır.
+
+Timur = 14. yüzyılda Orta Asya’da büyük bir imparatorluk kurmuş Türk-Moğol komutandır. Semerkand’ı başkent yapmış, Hindistan’dan Anadolu’ya kadar geniş topraklar fethetmiştir. Osmanlı Devleti ile Ankara Savaşı'nı yapıp kazanmıştır.
+
+Fatih = İstanbul’u 1453’te fethederek Orta Çağ’ı kapatıp Yeni Çağ’ı başlatan Osmanlı padişahıdır. İleri askeri teknikleri ve devlet yönetimindeki reformlarıyla bilinir. (… Sultan Mehmet)
+
+Selim = Osmanlı tahtına kısa ama etkili bir dönemle hükmetmiştir. Doğu seferleriyle İslam dünyasının liderliğini Osmanlı’ya kazandırmış, halifeliği Osmanlı’ya getirmiştir. (Yavuz Sultan …)
+
+Kanuni = Osmanlı’nın en uzun süre tahtta kalan padişahıdır. Hem büyük bir devlet adamı hem de ünlü bir şairdir. Kanunlarıyla imparatorlukta düzeni sağlamıştır ve “Muhteşem Süleyman” olarak anılır. (… Sultan Süleyman)
+
+Bismarck = Almanya’yı tek bir devlet haline getiren Prusya Başbakanıdır. “Demir Şansölye” olarak anılır. (Otto von …)
+
+Gandhi = Hindistan’ın İngiliz sömürge yönetiminden bağımsızlığını şiddet içermeyen direniş yöntemleriyle kazanmasını sağlamış liderdir. Kemal Kılıçdaroğlu'na fiziksel benzerliği ile bilinir. (Mahatma …)
+
+Wilde = İrlandalı yazar ve oyun yazarıdır. Keskin zekası ve toplumsal eleştirileriyle tanınır. “Dorian Gray’in Portresi” adlı eseri en bilinen yapıtıdır. (Oscar …)
+
+Kafka = 20. yüzyılın en önemli yazarlarındandır. Absürt ve karamsar dünyalar yarattığı eserleriyle insanın yabancılaşma sorunlarını işler. “Dönüşüm” en ünlü eseri "Gregor Samsa" en önemli karakteridir. (Franz …)
+
+Orwell = Totaliter rejimleri ve distopik toplumları eleştiren İngiliz yazardır. “1984” ve “Hayvan Çiftliği” adlı eserleriyle siyasi alegorilerin öncüsüdür. (George …)
+
+Hawking = Modern kozmolojinin en tanınmış teorisyenlerinden biridir. Kara delikler ve evrenin başlangıcı üzerine yaptığı çalışmalarla evrenin sırlarını halka anlatmıştır. Hareket kabiliyetini ALS hastalığı nedeniyle kaybetmiştir. (Stephen …)
+
+Bohr = Kendi ismiyle temelde Modern Atom Modeli'ne çok yakın bir atom modeli geliştirmiş Danimarkalı fizikçidir. Kuantum mekaniğinin öncülerindendir. (Niels …)
+
+Maxwell = Elektromanyetizma teorisini matematiksel olarak birleştiren İskoç fizikçidir.Kendi ismi ile geliştirdiği denklemleri ile ışığın elektromanyetik dalga olduğunu göstermiştir. (James Clerk …)
+
+Gagarin = Uzaya çıkan ilk insan olarak tarihe geçmiştir. Sovyet kozmonotudur ve 1961’de yörüngeye çıkarak uzay çağını başlatmıştır. (Yuri …)
+
+Armstrong = Ay’a ilk ayak basan insan olarak tarihe geçmiştir. 1969’da Apollo 11 göreviyle aya inmiş ve insanlık adına büyük bir dönüm noktası yaratmıştır. (Neil …)
+
+Muhammed = Dünyanın en ünlü Müslüman boksörlerinden biridir. Hızlı ve teknik dövüş tarzı, aynı zamanda sivrilmiş sosyal ve politik duruşuyla ringin dışında da etkili olmuştur. (… Ali)
+
+Pele = Brezilyalı futbol efsanesidir. Üç kez Dünya Kupası kazanmış, futbolun global ikonlarından biridir. Teknik becerileri ve oyun zekasıyla tanınır.
+
+Maradona = Arjantinli futbolcu, futbol tarihinin en yetenekli isimlerinden biridir. 1986 Dünya Kupası’ndaki performansıyla efsaneleşmiştir. “Tanrı’nın Eli” golüyle hatırlanır. (Diego …)
+
+Jordan = Basketbol tarihinin en iyi oyuncusu olarak kabul edilir. Chicago Bulls takımıyla altı NBA şampiyonluğu kazanmış, oyun içi etkisi ve rekabetçi ruhuyla tanınır.
+(Michael …)
+
+Jackson = Pop müziğin kralı olarak kabul edilir. Yenilikçi dansları ve unutulmaz şarkılarıyla dünya çapında üne kavuşmuştur. “Thriller” albümü müzik tarihinin en çok satanları arasındadır. (Michael …)
+
+Presley = Rock’n Roll’un öncüsü Amerikalı şarkıcıdır. Karizmatik sahne duruşu ve sesiyle gençlik kültüründe devrim yaratmıştır. “Kral” lakabıyla anılır. (Elvis …)
+
+Nazım = Modern Türk şiirinin öncüsüdür. Toplumsal sorunlara duyarlı, lirizmi ve direnişi birleştiren şiirleriyle tanınır. Sürgün ve hapis yaşamı şiirlerine yansımıştır. (… Hikmet)
+
+Halide = Türk yazar, siyasetçi ve kadın hakları savunucusudur. Milli Mücadele’de aktif rol almış, eserlerinde kadınların toplumsal rolünü işlemiştir. (… Edib Adıvar)
+
+Pamuk = Türk edebiyatının en tanınmış yazarlarından biridir. Doğu ve Batı kültürleri arasındaki çatışmayı işlediği romanlarıyla tanınır. Dünya çapında ün kazanmış 2006’da Nobel Edebiyat Ödülü’nü kazanarak bu ödülü alan ilk Türk olmuştur. (Orhan …)
+
+Piri = Osmanlı denizcisi ve haritacısıdır. 16. yüzyılda çizdiği dünya haritaları özellikle Amerika kıtasını detaylı şekilde göstermesiyle dikkat çeker. “Kitab-ı Bahriye” adlı eseri, o dönemin denizcilik bilgilerini ve Akdeniz kıyılarını kapsamlı biçimde anlatan önemli bir kaynaktır. (… Reis)
+
+Malcolm = Amerikalı siyahî hak savunucusudur. Irkçılığa karşı mücadele etmiş, özellikle siyah topluluğun özsaygı ve özgürlüğünü savunmuştur. Önce radikal bir çizgideyken, Mekke ziyareti sonrası evrensel İslam anlayışına yönelmiş ve barışçıl söylemleri benimsemiştir. 1965’te suikast sonucu hayatını kaybetmiştir. (… X)
+
+

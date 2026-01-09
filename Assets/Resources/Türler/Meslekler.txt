@@ -1,0 +1,82 @@
+Doktor = İnsan sağlığını koruyan ve hastaları tedavi eden kişi.
+Öğretmen = Bilgi aktaran, eğitim veren meslek sahibi.
+Mühendis = Teknik projeler tasarlayan ve geliştiren uzman.
+Avukat = Hukuki konularda danışmanlık ve savunma yapan kişi.
+Polis = Kamu düzenini sağlayan ve güvenliği koruyan görevli.
+İtfaiyeci = Yangınlara müdahale eden kahraman.
+Şoför = İnsanları veya yükleri taşıyan araç sürücüsü.
+Çiftçi = Tarım yaparak gıda üreten kişi.
+Aşçı = Yemek pişiren ve lezzet yaratan mutfak uzmanı.
+Hemşire = Doktorlara destek veren, hasta bakımını üstlenen sağlık personeli.
+Mimar = Yapıların tasarımını yapan sanat ve teknik uzmanı.
+Gazeteci = Haber toplayan ve kamuoyuna aktaran kişi.
+Pilot = Uçakları kullanan profesyonel.
+Sanatçı = Yaratıcı işlerle ilgilenen kişi, resim, müzik vb.
+Kasiyer = Mağazada ödeme işlemlerini gerçekleştiren görevli.
+Elektrikçi = Elektrik sistemlerini kuran ve onaran teknisyen
+Hostes = Uçuş sırasında yolculara hizmet veren görevli.
+Asker = Ülke savunmasında görevli kahraman.
+Garson = Restoranlarda yemek servisi yapan personel.
+Taksici = Yolcu taşıyan ticari araç sürücüsü.
+Veteriner = Hayvan sağlığı ile ilgilenen doktor.
+Eczacı = İlaç hazırlayan ve danışmanlık yapan sağlık görevlisi.
+Psikolog = Ruh sağlığı ile ilgilenen uzman.
+Psikiyatrist = Ruh hastalıklarını ilaçla da tedavi edebilen doktor.
+Terzi = Kıyafet diken ve onaran zanaatkâr.
+Kuaför = Saç kesen, şekillendiren ve bakım yapan kişi.
+Berber = Erkek saç kesimi ve traşı yapan kişi.
+Oyuncu = Film, dizi veya tiyatroda rol yapan kişi.
+Yönetmen = Film, dizi ya da tiyatro sahnesini yöneten kişi.
+Senarist = Film veya dizilerin senaryosunu yazan kişi.
+Yazar = Kitap, hikâye veya yazı yazan kişi.
+Fotoğrafçı = Görüntü çeken ve düzenleyen sanatçı.
+Heykeltıraş = Heykel yapan sanatçı.
+Editör = Yayınlanacak metinleri, projeleri düzenleyen kişi.
+Çevirmen = Bir dilden diğerine yazılı veya sözlü çeviri yapan kişi.
+Astronom = Uzay ve gök cisimlerini inceleyen bilim insanı.
+Arkeolog = Geçmiş uygarlıkları kazı ve araştırmalarla inceleyen kişi.
+Sosyolog = Toplumsal yapıları ve ilişkileri inceleyen uzman.
+Jeolog = Yer kabuğunu ve taşları inceleyen uzman.
+Meteorolog = Hava olaylarını gözlemleyen ve tahmin yapan uzman.
+Sismolog = Depremleri inceleyen bilim insanı.
+Pazarlamacı = Ürün ve hizmetleri tanıtıp satış stratejisi geliştiren kişi.
+Danışman = Belirli bir konuda bilgi ve öneri sunan uzman.
+Sekreter = Büro düzenini sağlayan, yazışmaları ve randevuları yöneten kişi.
+Antrenör = Sporculara eğitim veren ve gelişimlerini yöneten kişi.
+Sporcu = Profesyonel olarak sporla uğraşan kişi.
+Barista = Kahve hazırlama konusunda uzmanlaşmış kişi.
+Fırıncı = Ekmek ve hamur işi üreten kişi.
+Kaynakçı = Metal parçaları birleştiren zanaatkâr.
+Nakliyeci = Taşımacılık yapan kişi.
+Çilingir = Kilit açma ve değiştirme işlerinde uzman kişi.
+Antikacı = Eski ve değerli eşyaları satan veya toplayan kişi.
+Influencer = Sosyal medya platformlarında geniş takipçi kitlesine sahip olup dijital pazarlamada önemli rol oynayan kişidir.
+Marangoz = Ahşap işleri yapan zanaatkâr.
+Akademisyen = Üniversite düzeyinde eğitim veren ve araştırma yapan kişi.
+Muhasebeci = Finansal kayıtları tutan ve raporlayan kişi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

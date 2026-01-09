@@ -1,0 +1,24 @@
+Domates = Kırmızı rengiyle salataların ve yemeklerin vazgeçilmezi olan sulu sebze.
+Salatalık = Serinletici etkisiyle bilinen, genellikle çiğ tüketilen yeşil sebze.
+Biber = Tatlısı da acısı da olan; dolma, kızartma ve sosa çok yakışan sebze.
+Patlıcan = Mor kabuğuyla tanınan; kızartması, közlemesi ve musakkası yapılan sebze.
+Kabak = Hem tatlısı hem yemeği yapılan, yeşil veya beyaz kabuklu hafif sebze.
+Patates = Kızartması, haşlaması ve püresiyle bilinen nişastalı sebze.
+Soğan = Yemeklere lezzet katan, göz yaşartıcı etkisiyle meşhur sebze.
+Sarımsak = Keskin kokusu ve şifalı etkileriyle bilinen beyaz kabuklu sebze.
+Ispanak = Demir açısından zengin, özellikle kışın tüketilen koyu yeşil yapraklı sebze.
+Lahana = Beyazı, moru ve karalahanası olan; sarmasıyla bilinen katmanlı sebze.
+Havuç = Turuncu rengiyle dikkat çeken, salata ve yemeklerde sıkça kullanılan kök sebze.
+Pırasa = Kış sebzesi olarak bilinen, genellikle zeytinyağlı yapılan uzun ve yeşil beyaz sebze.
+Kereviz = Hem sapı hem kökü tüketilen; aromatik ve zeytinyağlı yemekleri yapılan sebze.
+Turp = Baharatlı tadıyla bilinen; genellikle salatalarda çiğ tüketilen kök sebze.
+Marul = Sandviçlerin ve salataların vazgeçilmezi olan gevrek yapraklı yeşillik.
+Roka = Keskin ve acımsı tadıyla bilinen, genellikle balıkla birlikte tüketilen yeşil yapraklı sebze.
+Maydanoz = Küçük yapraklı, hem süsleme hem aroma amacıyla kullanılan taze yeşillik.
+Tere = Kuvvetli aromasıyla tanınan, çiğ olarak tüketilen bir başka yeşillik türü.
+Brokoli = Küçük ağaçlara benzeyen, buharda pişirilen ve sağlıklı kabul edilen yeşil sebze.
+Karnabahar = Brokoliye benzeyen ama beyaz renkte olan, genellikle kızartılarak veya haşlanarak tüketilen sebze.
+Fasulye = Uzun, yeşil veya kuru haliyle tüketilen protein açısından zengin sebze.
+Patates = Kaba kahverengi dış kabuklu, nişasta deposu olan besleyici kök sebze.
+
+

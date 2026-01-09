@@ -1,0 +1,17 @@
+Gül = Sevginin ve aşkın simgesi olan, dikenli sapıyla tanınan güzel kokulu çiçek.
+Lale = Osmanlı döneminden beri kültürümüzde önemli yeri olan, renkli ve zarif çiçek.
+Karanfil = İnce dal uçlarında kümeler hâlinde açan, kenarları tırtıklı taç yapraklara sahiptir. Taze kokusuyla mezarlıklarda da, resmi törenlerde de tercih edilir. 
+Orkide = Egzotik görünümü ve nadir bulunan çeşitleriyle dikkat çeken zarif, pahalı çiçek.
+Menekşe = Küçük yapraklı, genellikle mor renkli ve güzel kokulu çiçek.
+Sümbül = Yoğun çiçek kokusuyla bulunduğu ortama baharı getirir. Lale ile birlikte Osmanlı saraylarında en çok sevilen çiçeklerden biridir.
+Papatya = Beyaz yaprakları ve sarı ortasıyla tanınan, sadeliğin sembolü çiçek.
+Zambak = Zarif ve büyük yaprakları olan, genellikle beyaz veya sarı renkte çiçek. Çoğu türü gece kokusunu yayar ve çelenklerde, düğünlerde sıkça kullanılır.
+Kasımpatı = Sonbaharda açan, renk renk çeşitleriyle bilinen dayanıklı çiçek. Japon kültüründe ölümsüzlük ve saygı sembolüdür
+Akasya = Bahar aylarında açan, sarı küçük çiçek kümeleriyle tanınan ağaç. Genellikle yol kenarlarında ve parklarda bulunur.
+Hanımeli = Tatlı kokusuyla bilinen, sarmaşık formunda yaygın çiçek türü.
+Begonya = Evlerde ve bahçelerde süs amacıyla yetiştirilen, rengarenk yapraklı çiçek. Gölgede bile çiçek açabilmesiyle bilinir.
+Kaktüs = Çiçek açan, dikenli ve susuzluğa dayanıklı bitki türü.
+Nergis = Borumsu sapın ucunda açan genellikle sarı veya beyaz renkli çiçekleriyle ilkbaharın habercisidir. Mitolojide "Narkissos".
+Lavanta = Mor renkli, hoş kokulu, aromaterapide sıkça kullanılan bitki.
+Sardunya = Balkonlarda sıkça yetiştirilen, renkli ve dayanıklı çiçek türü.
+Petunya = Yaz aylarında durmaksızın çiçek veren, renkli ve desenli bahçe bitkisi.

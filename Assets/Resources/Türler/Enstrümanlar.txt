@@ -1,0 +1,25 @@
+bağlama = Türk halk müziğinin temel telli çalgısı
+ney = Osmanlı ve tasavvuf müziğinde kullanılan üflemeli çalgı
+kaval = Genellikle çobanlar tarafından çalınan uzun flüt
+tambur = Uzun saplı, tınlayan sesli telli çalgı
+zurna = Davulla birlikte düğün ve şenliklerde çalınan boru, nefesli çalgı
+davul = Ritmi sağlayan büyük vurmalı çalgı
+saz = Bağlamaya benzer, halk müziğinde sık kullanılır
+def = Halk danslarında ritim tutmak için kullanılan vurmalı çalgı, üstünde küçük metal ziller veya çanlar bulunur. 
+gitar = Batı kökenli telli, pena ile çalınan çalgı, modern müzikte yaygın
+piyano = Tuşlu, klavyeli ve telli büyük klasik enstrüman
+klarnet = Düğünlerde ve halk müziğinde kullanılan nefesli çalgı
+tulum = Karadeniz bölgesinde kullanılan kaval benzeri nefesli
+çello = Yaylı telli batı müziği enstrümanı, derin sesli
+org = Kilise ve klasik müzikte kullanılan klavyeli enstrüman
+saksafon = Caz ve popüler müzikte kullanılan nefesli çalgı
+flüt = Üflemeli, ince ve uzun metal veya tahta nefesli çalgı.
+kontrbas = Orkestranın en büyük yaylı çalgısı
+mandolin = Küçük saplı, genelde 8 teli olan ve telleri tıngırdatılan çalgı
+Keman = Yaylı ve saplı küçük telli enstrüman, yayla çalınır, yaygındır.
+Trompet = Metalden yapılmış, üflemeli, yüksek ve parlak ses veren enstrüman.
+Bateri = Farklı vurmalı çalgıların bir araya geldiği davul seti.
+Çello = Keman ailesinden, büyük boyutta ve yayla çalınan telli enstrüman.
+Banjo = Deri kaplı, saplı, genellikle mavigrass ve folk müzikte kullanılan telli enstrüman.
+Darbuka = Eller ve parmaklarla vurularak çalınan Orta Doğu vurmalı enstrümanı. Ritim tutmada önemlidir.
+

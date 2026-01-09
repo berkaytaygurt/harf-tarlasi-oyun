@@ -1,0 +1,10 @@
+Afrika = Çeşitli iklimleri ve doğal yaşamı ile zengin biyoçeşitlilik kıtası.
+Antarktika = Buzullarla kaplı, dünyanın en soğuk ve en güneydeki kıtası.
+Asya = Dünyanın en büyük ve en kalabalık kıtası, birçok kültürün beşiği.
+Avrupa = Tarih, sanat ve teknoloji açısından zengin, küçük ama etkili kıta.
+Avustralya = Ada kıta, kangurular ve doğal güzellikleriyle bilinir.
+Balkanlar = Güneydoğu Avrupa'da tarihi ve kültürel çeşitliliğiyle bilinen bölge.
+Baltık = Kuzey Avrupa'da Estonya, Letonya ve Litvanya'dan oluşan bölge.
+İskandinavya = Norveç, İsveç, Danimarka ve Finlandiya'yı kapsayan Kuzey Avrupa bölgesi.
+Ortadoğu = Petrol rezervleri ve antik uygarlıklarıyla bilinen stratejik bölge.
+Uzakdoğu = Kültürel çeşitliliği, gelişmiş teknolojisi ve tarihi mirasıyla öne çıkan Asya'nın doğu bölgesi. 

@@ -1,0 +1,41 @@
+Futbol = Dünya çapında en popüler takım sporu.
+Basketbol = Topu potaya atmaya dayalı hızlı oyun.
+Voleybol = File üzerinden topu rakip alana atma oyunu.
+Tenis = Kortta raketle topu karşılıklı vurma sporu.
+Yüzme = Suda çeşitli stillerde yapılan yarışma.
+Atletizm = Koşu, atlama, atma gibi birçok branşın toplamı.
+Boks = İki sporcunun eldivenlerle dövüştüğü mücadele.
+Judo = Rakibi mindere yıkmaya dayalı Japon dövüş sporu.
+Güreş = İki kişinin serbest stil veya grekoromen mücadele.
+Golf = Topu deliklere sokmaya dayalı açık hava oyunu.
+Kriket = Topa vurup koşarak sayı kazanılan, özellikle İngiliz ülkelerinde popüler takım oyunu.
+Eskrim = Kılıçlarla yapılan hızlı refleks sporu.
+Ragbi = Sert teması olan, oval topla oynanan oyun.
+Sörf = Dalga üzerinde denge gerektiren su sporu.
+Okçuluk = Yay ve ok kullanarak hedefi vurma sporu.
+Badminton = Hafif tüy topuyla raketin kullanıldığı hızlı tempolu raket sporu.
+Kayak = Kar üzerinde hızla veya engellerle yarışmaya dayalı kış sporu.
+Hentbol = Topu elle kaleye atmaya çalışan, hızlı tempolu takım sporu.
+Kano = Kürekle ileri gidilen, su üzerinde yapılan dayanıklılık ve hız sporu.
+Dağcılık = Zorlu doğa koşullarında yüksek dağlara tırmanmayı içeren spor dalı.
+Yelken = Rüzgar gücüyle hareket eden teknelerle yapılan su sporu.
+Jimnastik = Esneklik, güç ve denge gerektiren artistik spor dalı.
+Triatlon = Yüzme, bisiklet ve koşu olmak üzere üç disiplini içeren dayanıklılık sporu.
+Karate = Duruş, vuruş ve savunma tekniklerine dayanan Japon dövüş sanatı.
+Curling = Buz üzerinde taşları kaydırarak hedefe yaklaştırmaya çalışan takım sporu.
+Pentatlon = Atıcılık, eskrim, yüzme, binicilik ve koşuyu içeren beş disiplinli spor.
+Polo = At üstünde sopayla topa vurarak sayı kazanılan takım sporu.
+Sumo = Japonya’ya özgü, güreş benzeri güç ve denge sporu.
+
+
+
+
+
+
+
+
+
+
+
+
+

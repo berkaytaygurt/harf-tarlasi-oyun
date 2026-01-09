@@ -1,0 +1,9 @@
+Merkür = Güneşe en yakın, küçük ve kayalık gezegen.
+Venüs = Dünya'nın ikizi, kalın zehirli atmosferiyle sıcak.
+Dünya = İnsanların yaşadığı mavi gezegen.
+Mars = Kızıl gezegen, üzerinde araştırmalar yapılıyor.
+Jüpiter = Güneş sisteminin en büyük gaz devi.
+Satürn = Halkalarıyla ünlü gaz gezegeni.
+Uranüs = Yan yatmış gibi dönen buz devi.
+Neptün = Güneş'ten en uzak mavi buz gezegeni.
+Plüton = Cüce gezegen, Güneş sisteminde küçük ve uzak.

@@ -1,0 +1,13 @@
+Oruç = Gün doğumundan gün batımına yemek yememek.
+İftar = Oruç açma vakti, akşam yemeği.
+Sahur = Oruç öncesi sabah yemeği.
+Teravih = Ramazan gecelerinde kılınan özel namaz.
+Kadir = Ramazan'ın en kutsal gecesi.
+Zekat = Mali yardım, Ramazan'da verilen sadaka.
+Fitre = Ramazan sonunda verilen sadaka.
+İmsak = Oruç başlangıç saati, sabah vakti.
+Mukabele = Kur'an okumalarının topluca yapılması.
+Hac = Ramazan sonrası yapılabilen dini ibadet.
+Ramazan = 11 ayın Sultanı.
+İhlas = Samimiyet, Ramazan'da önem verilen duygu.
+Sadaka = İhtiyaç sahiplerine verilen yardım.

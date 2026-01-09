@@ -1,0 +1,23 @@
+Pop = Geniş kitleye hitap eden, ritmik ve akılda kalıcı yapıya sahip müzik türü.
+Rock = Elektrik gitar, bas ve davul temelli, enerjik ve ritmik müzik türü.
+Jazz = Doğaçlama ve ritim odaklı kökeni Afrika kökenli müzik.
+Blues = Hüzünlü temalı, gitar ve vokalin ön planda olduğu müzik.
+Rap = Hızlı konuşma ve ritimle yapılan sözlü müzik.
+Reggae = Jamaika kökenli, yavaş ve rahatlatıcı ritimlere sahip müzik.
+Metal = Sert ve hızlı tempolu rock müziğin alt türü.
+Country = Kırsal Amerika kökenli hikaye anlatan müzik.
+Klasik = Orkestra ve senfonik yapıya sahip geleneksel Batı müziği.
+Folk = Halk müziği, kültürel ve yöresel ezgiler.
+House = Elektronik dans müziğinin dans odaklı alt türlerinden, sabit tempolu elektronik müzik.
+Techno = Elektronik müziğin mekanik ve hızlı versiyonu.
+Trap = Hip hop'un alt türü, yoğun bas ve keskin ritimlerle karakterize.
+Funk = Ritim odaklı, bas ağırlıklı, dansa uygun müzik türü.
+Soul = Derin duygularla söylenen, Afro-Amerikan kökenli müzik türü.
+Lofi = Düşük kaliteli ses öğeleriyle oluşturulmuş rahatlatıcı müzik türü.
+Kpop = Güney Kore çıkışlı, dans odaklı ve görselliği ön planda tutan pop müzik türü.
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+Ahududu = Pembe-kırmızı, minik taneciklerden oluşan, yumuşak meyve.
+Armut = Tatlı ve yumuşak dokusuyla tanınan, genellikle sonbaharda olgunlaşan meyve.
+Ayva = Sert yapılı, sarı renkte, reçel ve tatlı yapımında kullanılan meyve.
+Ananas = Tropikal, dikenli kabuklu, sarı etli ve tatlı meyve.
+Avokado = Yeşil kabuklu, kremsi dokulu, sağlıklı yağ içeren meyve.
+Böğürtlen = Mor-siyah renkli, küçük taneli ve hafif ekşi meyve.
+Çilek = Kırmızı ve kalp şeklindeki meyve; reçel ve tatlılarda sıkça kullanılır.
+Dut = Beyaz veya siyah renkli, ağaçta yetişen tatlı meyve.
+Elma = Kırmızı, yeşil ya da sarı renkte olabilir; hem sulu hem de tok tutucu meyve.
+Erik = Ekşi ya da tatlı olabilir; genellikle yeşil, mor ya da kırmızı renktedir.
+Greyfurt = Portakala benzeyen ama daha acı ve iri olan turunçgil meyve.
+Hurma = Tatlı, kahverengi ve özellikle Ramazan ayında sıkça tüketilen meyve.
+İğde = Sarı-kahverengi küçük meyve, hoş kokulu ve mayhoş tatlı.
+İncir = Taze veya kuru olarak tüketilen, içi dolgun ve tatlı meyve.
+Karpuz = Yazın serinleten, içi kırmızı ve bol sulu büyük meyve.
+Kavun = Tatlı aroması ve hoş kokusuyla bilinen, sarı kabuklu yaz meyvesi.
+Kayısı = Sarımsı turuncu renkte, tatlı ve etli bir yaz meyvesi.
+Kiraz = Saplı ve kırmızı küçük meyve, genellikle ilkbahar sonunda olgunlaşır.
+Kivi = Dış kabuğu tüylü, içi yeşil ve ekşimsi tadıyla bilinen meyve.
+Limon = Ekşi tadıyla bilinen, yemek ve içeceklerde aroma olarak sıkça kullanılan meyve.
+Mandalina = Kolay soyulan kabuğuyla bilinen, portakala benzeyen küçük turunçgil.
+Mango = Tropikal, tatlı ve lifli yapıya sahip egzotik meyve.
+Muz = Kabuklu ve kıvrık yapısıyla bilinen, potasyum açısından zengin, sarı tropikal meyve.
+Nar = Taneleriyle meşhur, kırmızı kabuklu ve bol sulu kış meyvesi.
+Nektarin = Şeftaliye benzeyen ama kabuğu tüysüz olan meyve.
+Portakal = C vitamini deposu, turuncu renkli ve sulu kış meyvesi.
+Şeftali = Tüylü kabuğuyla bilinen, yumuşak ve sulu yaz meyvesi.
+Üzüm = Salkım halinde yetişen, taze veya kuru olarak tüketilen meyve.
+Vişne = Kiraza benzeyen ama daha ekşi tadıyla tanınan kırmızı meyve.
+
+
+
