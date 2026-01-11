@@ -6,7 +6,7 @@ Harf Tarlası, Unity kullanılarak geliştirilmiş basit bir kelime oyunudur.
 
 Oyuncunun verilen harfler arasından anlamlı kelimeler oluşturarak puan kazandığı bir oyun mantığına sahiptir.
 
-
+https://play.google.com/store/apps/details?id=com.TaygurtGamesHarfTarlasi.com.unity.template.mobile2D
 
 \## Özellikler
 
