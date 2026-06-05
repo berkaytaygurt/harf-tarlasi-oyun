@@ -1,48 +1,38 @@
-\# Harf Tarlası
+# 🌾 Harf Tarlası - Kelime Oyunu
 
+Harf Tarlası, Unity motoru kullanılarak C# diliyle geliştirilmiş, oyuncuların verilen harf havuzundan anlamlı kelimeler türeterek puan topladığı mobil tabanlı bir kelime bulmaca oyunudur. 
 
+Bu proje; oyun döngüsü yönetimi, dinamik UI sistemleri ve veri kontrolü pratiklerini pekiştirmek amacıyla geliştirilmiş bir öğrenme ve pratik çalışması ürünüdür.
 
-Harf Tarlası, Unity kullanılarak geliştirilmiş basit bir kelime oyunudur. 
+---
 
-Oyuncunun verilen harfler arasından anlamlı kelimeler oluşturarak puan kazandığı bir oyun mantığına sahiptir.
+## 📱 Uygulamayı İndirin
 
-https://play.google.com/store/apps/details?id=com.TaygurtGamesHarfTarlasi.com.unity.template.mobile2D
+Oyunu doğrudan Google Play Store üzerinden cihazınıza indirip deneyimleyebilirsiniz:
 
-\## Özellikler
+<a href="https://play.google.com/store/apps/details?id=com.TaygurtGamesHarfTarlasi.com.unity.template.mobile2D">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180"/>
+</a>
 
-\- Kelime oluşturma mekaniği
+---
 
-\- Skor sistemi
+## ✨ Öne Çıkan Özellikler
 
-\- Basit ve kullanıcı dostu arayüz
+* **Dinamik Kelime Mekaniği:** Harfleri birleştirerek anlamlı kelimeler üretme ve kontrol sistemi.
+* **Skor ve Geri Bildirim Sistemi:** Doğru kelimelerde artan skor yapısı ve kullanıcıyı yönlendiren UI animasyonları.
+* **Mobil Uyumlu Arayüz:** Kullanıcı dostu, minimalist ve performans odaklı 2D mobil arayüz tasarımı.
+* **Modüler Mimari:** Genişletilebilir sahne yapısı ve yönetim scriptleri.
 
-\- Unity ile geliştirildi
+---
 
+## 🛠️ Teknik Kazanımlar & Öğrenilenler
 
+Projenin geliştirme sürecinde aşağıdaki oyun programlama ve Unity konseptlerinde derinlemesine pratik kazanılmıştır:
 
-\## Amaç
+* **Unity Sahne Yönetimi (Scene Management):** Sahneler arası akıcı geçişler ve oyun döngüsünün (Game Loop) sağlıklı yönetilmesi.
+* **C# ile Oyun Mantığı Scriptleme:** Temiz, okunabilir ve modüler C# scriptleri ile oyun içi algoritmaların kurulması.
+* **UI ve Event Yönetimi:** `Unity UI (uGUI)` elementlerinin kod tarafında dinamik olarak güncellenmesi ve skor takibi.
+* **Mobil Optimizasyon:** Mobil cihazlarda stabil çalışacak temel 2D oyun mekaniklerinin optimizasyonu.
 
-Bu proje, Unity ve C# kullanarak oyun mantığı kurma, kullanıcı etkileşimi yönetme 
-
-ve temel oyun sistemleri geliştirme pratiği kazanmak amacıyla yapılmıştır.
-
-
-
-\## Öğrendiklerim
-
-\- Unity sahne yönetimi
-
-\- Oyun içi mantık ve akış tasarımı
-
-\- C# ile oyun scriptleri yazma
-
-\- Basit UI ve skor sistemleri
-
-
-
-\## Not
-
-Bu proje bir öğrenme ve pratik çalışması olarak geliştirilmiştir.
-
-
+---
 
